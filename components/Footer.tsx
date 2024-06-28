@@ -33,7 +33,7 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://x.com/sunnyleone?lang=en"
+          href="https://x.com/LovelyDhanush19?t=hOK-iBXXkTRJBMn6e7iqKg&s=09"
           className="group"
           aria-label="TaxPal on Twitter"
         >
