@@ -13,7 +13,7 @@ export default function Header() {
           height={24}
         />
         <h1 className="sm:text-3xl text-xl font-bold ml-2 tracking-tight">
-          DHANUSHGPT.io
+          Image API.io
         </h1>
       </Link>
       <a
@@ -23,7 +23,7 @@ export default function Header() {
         rel="noopener noreferrer"
       >
         <Github />
-        <p>GitHub Fuck OH ya!</p>
+        <p>GitHub</p>
       </a>
     </header>
   );
